@@ -10,3 +10,4 @@ For the upcoming 2022 Elections, I created a map of the (new; approved 2021) **I
 For the 2019 Elections, I created maps of the (old; approved 2013) **IL 4th State House District** and **9th State House District** with overlays: 
 * Chicago Wards
 * Chicago Election Precincts
+* Cook County Election Precincts (bordering)
