@@ -4,7 +4,7 @@ This repository contains data used for creating maps for elections canvassing an
 
 ## 2022
 
-For the upcoming 2023 Elections, I created a map of the (new; approved 2021) **IL 4th State House District** with overlays:
+For the 2022 Midterm Elections, I created a map of the (new; approved 2021) **IL 4th State House District** with overlays:
 * Chicago Wards
 * Chicago Election Precincts 
 * IL-3 Congressional District
